@@ -82,7 +82,7 @@ def download_map(url,layer,size,crs,output_dir):
                        compress='lzw') as dst:
         dst.write(img_array.astype(np.uint8), indexes=1)
         
-    return output_dir+output_name+'.png',bbox
+    return output_dir+output_name,bbox
         
         
         
