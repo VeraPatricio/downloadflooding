@@ -1,4 +1,4 @@
 ,scenario,file,geo_zone,bbox
-0,2019,FloodingMaps/FloodingDK2019/Fare fra vandløb (1000 år),DK,"(8.019848, 54.445098, 15.562142, 57.653192)"
-1,2019,FloodingMaps/FloodingDK2019/Fare fra hav (ekstrem hændelse),DK,"(8.008285, 54.435388, 15.599735, 57.769964)"
+0,2019,FloodingMaps/FloodingDK2019_25832/Fare fra vandløb (1000 år),DK,"(8.019848, 54.445098, 15.562142, 57.653192)"
+1,2019,FloodingMaps/FloodingDK2019_25832/Fare fra hav (ekstrem hændelse),DK,"(8.008285, 54.435388, 15.599735, 57.769964)"
 2,2019,FloodingMaps/FloodingDK2019/Fare_Hav_og_Vanlob_1000ar,DK,"BoundingBox(left=8.008285, bottom=54.435388, right=15.599735, top=57.769964)"
